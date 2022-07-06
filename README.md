@@ -18,5 +18,5 @@ Codes
 * For training      
 The traning codes will be released with the journal version.
 * For testing    
-For low-light image enhancement, run test_en.py.  
+For low-light image enhancement, run test_en.py with enhance.pth.  
 For dark face detection/nighttime segmentation, run test_det.py. 
